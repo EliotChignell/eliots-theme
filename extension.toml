@@ -6,5 +6,4 @@ authors = ["Eliot Chignell <chignelleliot@gmail.com>"]
 description = "A dark purple-ish blurred theme based off nightfox.zed."
 repository = "https://github.com/EliotChignell/eliots-theme"
 
-[themes]
 themes = ["themes/eliots-theme.json"]
